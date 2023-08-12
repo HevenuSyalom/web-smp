@@ -1,0 +1,12 @@
+*{
+    margin:0px ;
+}
+nav{
+    background-color: aqua;
+}
+
+.kolom{
+    flex-direction: row;
+    display:flex ;
+    justify-content: start;
+}
